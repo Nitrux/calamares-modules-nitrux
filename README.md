@@ -32,7 +32,7 @@ calamares/modules/partitionq/libcalamares_viewmodule_partitionq.so
 
 This repository contains files under multiple licenses.
 
-- Repository build and packaging automation is licensed under **BSD-3-Clause** (see `LICENSE_repo`).
+- Repository build and packaging automation is licensed under **BSD-3-Clause** (see `LICENSE_packaging`).
 - The vendored backend sources are derived from Calamares and retain their original SPDX headers and licensing: **GPL-3.0-or-later** (see `LICENSE_module`).
 
 # Issues
